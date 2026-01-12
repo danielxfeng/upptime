@@ -22,18 +22,20 @@
     "url": "https://auth-demo-sage.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/auth-demo-sage.vercel.app.ico",
     "slug": "auth-demo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 286,
-    "timeDay": 286,
-    "timeWeek": 286,
-    "timeMonth": 286,
-    "timeYear": 286,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "98.91%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "98.91%",
+    "time": 564,
+    "timeDay": 564,
+    "timeWeek": 564,
+    "timeMonth": 564,
+    "timeYear": 564,
+    "dailyMinutesDown": {
+      "2026-01-12": 5
+    }
   },
   {
     "name": "AuthWakeup",
