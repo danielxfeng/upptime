@@ -5,10 +5,6 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Homepage
-    url: https://danielslab.dev
-  - name: Mushroom
-    url: https://mush.danielslab.dev
   - name: AuthDemo
     url: https://auth-demo-sage.vercel.app/
   - name: AuthWakeup
