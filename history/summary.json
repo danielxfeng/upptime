@@ -26,14 +26,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth-demo-sage.vercel.app.ico",
     "slug": "auth-demo",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 392,
     "timeDay": 929,
-    "timeWeek": 326,
+    "timeWeek": 288,
     "timeMonth": 392,
     "timeYear": 392,
     "dailyMinutesDown": {
@@ -83,7 +83,7 @@
     "url": "https://xin-daniel-feng-mush-worker-1.hf.space/",
     "icon": "https://icons.duckduckgo.com/ip3/xin-daniel-feng-mush-worker-1.hf.space.ico",
     "slug": "m2-wakeup",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -94,6 +94,8 @@
     "timeWeek": 428,
     "timeMonth": 449,
     "timeYear": 449,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-22": 0
+    }
   }
 ]
