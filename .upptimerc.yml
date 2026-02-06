@@ -9,10 +9,14 @@ sites:
     url: https://auth-demo-sage.vercel.app/
   - name: AuthWakeup
     url: https://auth-demo-x0sd.onrender.com/api/ping
+  - name: QuickAgentsFactory
+    url: https://agents.danielslab.dev
   - name: M1Wakeup
     url: https://xin-daniel-feng-mush-worker-2.hf.space/
   - name: M2Wakeup
     url: https://xin-daniel-feng-mush-worker-1.hf.space/
+  - name: QuickAgentsFactoryBackend
+    url: https://agents-api.danielslab.dev/api/v1/health
 
 
 
