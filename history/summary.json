@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
     "status": "up",
-    "uptime": "99.52%",
+    "uptime": "99.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.04%",
-    "uptimeYear": "97.34%",
+    "uptimeMonth": "66.58%",
+    "uptimeYear": "97.21%",
     "time": 280,
     "timeDay": 91,
     "timeWeek": 104,
     "timeMonth": 280,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2026-02-09": 65,
+      "2026-02-09": 707,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
@@ -92,7 +92,7 @@
     "timeMonth": 149,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2026-02-09": 65,
+      "2026-02-09": 707,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 108
@@ -103,9 +103,9 @@
     "url": "https://xin-daniel-feng-mush-worker-2.hf.space/",
     "icon": "https://icons.duckduckgo.com/ip3/xin-daniel-feng-mush-worker-2.hf.space.ico",
     "slug": "m1-wakeup",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -114,7 +114,9 @@
     "timeWeek": 389,
     "timeMonth": 442,
     "timeYear": 442,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-09": 0
+    }
   },
   {
     "name": "M2Wakeup",
@@ -153,7 +155,7 @@
     "timeMonth": 139,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2026-02-09": 65,
+      "2026-02-09": 707,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 108
