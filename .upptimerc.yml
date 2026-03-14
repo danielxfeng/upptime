@@ -17,6 +17,8 @@ sites:
     url: https://xin-daniel-feng-mush-worker-1.hf.space/
   - name: QuickAgentsFactoryBackend
     url: https://agents-api.danielslab.dev/api/v1/health
+  - name: rpsBackend
+    url: https://reaktor-rps-assignment.onrender.com/api/v1/health
 
 
 
